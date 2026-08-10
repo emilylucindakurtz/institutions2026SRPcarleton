@@ -19,5 +19,23 @@
   },
   "index.qmd": {
     "index.html": "72195fed"
+  },
+  "site_docs/aboutus.qmd": {
+    "aboutus.html": "70a6bf37"
+  },
+  "site_docs/data.qmd": {
+    "data.html": "48489bc4"
+  },
+  "site_docs/industrial_institutions.qmd": {
+    "industrial_institutions.html": "0a36c2b4"
+  },
+  "site_docs/museums.qmd": {
+    "museums.html": "5489b499"
+  },
+  "site_docs/satellite.qmd": {
+    "satellite.html": "5a5938c9"
+  },
+  "site_docs/theaters_etc.qmd": {
+    "theaters_etc.html": "af753e11"
   }
 }
